@@ -1,0 +1,68 @@
+{
+  "board": {
+    "list": [
+      {
+        "title": "Backlog",
+        "cards": [
+          {
+            "id": "s98234n3ki",
+            "title": "Publicar en Github Pages",
+            "description": "Lorem ipsum dolor sit amet",
+            "tags": ["JS", "Css", "Html"]
+          }
+        ]
+      },
+      {
+        "title": "Por hacer",
+        "cards": [
+          {
+            "id": "sdf0s98234n3ki",
+            "title": "Unificar funcionalidad",
+            "description": "Lorem ipsum dolor sit amet",
+            "tags": ["JS", "Css", "Html"]
+          },
+          {
+            "id": "9f8734ksd",
+            "title": "Pintar el DOM",
+            "description": "Lorem ipsum dolor sit amet",
+            "tags": ["JS", "Css", "Html"]
+          }
+        ]
+      },
+      {
+        "title": "Haciendo",
+        "cards": [
+          {
+            "id": "sdf0s5624n3ki",
+            "title": "Escuchar eventos",
+            "description": "Lorem ipsum dolor sit amet",
+            "tags": ["JS", "Css", "Html"]
+          }
+        ]
+      },
+      {
+        "title": "Hecho",
+        "cards": [
+          {
+            "id": "sdjasgay4n3ki",
+            "title": "Manipular datos",
+            "description": "Lorem ipsum dolor sit amet",
+            "tags": ["JS", "Css", "Html"]
+          },
+          {
+            "id": "9f87965wsd",
+            "title": "Guardar datos en el local storage",
+            "description": "Lorem ipsum dolor sit amet",
+            "tags": ["JS", "Css", "Html"]
+          },
+          {
+            "id": "9f879jshdu65wsd",
+            "title": "Obtener datos del API",
+            "description": "Lorem ipsum dolor sit amet",
+            "tags": ["JS", "Css", "Html"]
+          }
+        ]
+      }
+    ]
+  }
+}
